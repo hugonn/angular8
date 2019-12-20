@@ -1,0 +1,7 @@
+ng new <nome projeto> - cria projetos
+
+ng serve - pequeno server rodando
+
+ng add @angular/material - componentes prontos do angular 
+
+npm install --save <nome do modulo>
